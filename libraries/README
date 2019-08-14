@@ -1,0 +1,6 @@
+Required libraries are available online, Following libraries are required:
+1). Adafruit_BMP280_Library
+2). Adafruit_Sensor-master
+3). I2C-Sensor-Lib_iLib
+
+Import them through arduino IDE.
